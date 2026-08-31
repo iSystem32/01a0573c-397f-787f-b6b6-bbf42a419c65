@@ -2,24 +2,24 @@
   "workbench.editor.enablePreview": true,
   "keyboard.layout": "es-rUS",
 
-  "chat.agent.sandbox.enabledWindows": "true",
+  "chat.agent.sandbox.enabledWindows": "on",
 
   "chat.agent.allowedNetworkDomains": [],
 
-  "chat.agent.networkFilter": "true",
+  "chat.agent.networkFilter": true,
 
   "workbench.secondarySideBar.defaultVisibility": "hidden",
 
-  "chat.checkpoints.showFileChanges": "true",
+  "chat.checkpoints.showFileChanges": true,
 
   "chat.editing.autoAcceptDelay": 0.89,
 
   "[markdown]": {
     "editor.unicodeHighlight.ambiguousCharacters": false,
     "editor.unicodeHighlight.invisibleCharacters": false,
-    "diffEditor.ignoreTrimWhitespace": "false",
+    "diffEditor.ignoreTrimWhitespace": false,
     "editor.wordWrap": "on"
   },
   "editor.fontSize": 10,
-  "workbench.editor.showTabs": "true"
+  "workbench.editor.showTabs": "multiple"
 }
