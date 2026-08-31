@@ -1,0 +1,44 @@
+# Ignore common secret/config files and build outputs
+
+# Env files
+.env
+.env.*.local
+.env.local
+
+# Secrets and credentials
+*.secret
+secrets.yml
+credentials
+*.key
+*.pem
+*.p12
+ibmcloud_api_key.txt
+
+# IBM Cloud CLI local files
+.ice/
+
+# VSCode local workspace files - allow .vscode/settings.json in repo, but ignore local overrides
+.vscode/*.code-workspace
+.vscode/*settings.local.json
+
+# Editor temporary files
+*~
+*.swp
+*.swo
+
+# Node/Python/Java build outputs
+node_modules/
+dist/
+build/
+target/
+release/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
