@@ -17,3 +17,23 @@ Si detectas que el repo contiene configuraciones personales no deseadas, por fav
 - Antes de abrir un PR, revisa los cambios para comprobar que no se incluyen credenciales accidentalmente.
 - Considera añadir herramientas de detección de secretos (por ejemplo: git-secrets, truffleHog o el escáner de GitHub) en la CI para prevenir filtraciones.
 
+# f2c36612c5e723f13c049778d1e8db25bc405e03
+
+
+# ee7d3dcdfe69dc11738c05d108454b07aefa2775
+
+
+# f98b7d133c9e3cd372cb249ac7c54d237889894a
+
+
+# 91d113e18d71d10b750368fdb946b5e188036a41
+
+
+# 89365bb4acf8b0613ae5a767f1c3b3ea5cc7ab38
+
+
+# ccf7f2b6b9879635de03f37105fd579e106d5941
+
+
+# f87e2c931b053d06e01958d1d61a86e387fb094b
+
