@@ -37,3 +37,45 @@ Si detectas que el repo contiene configuraciones personales no deseadas, por fav
 
 # f87e2c931b053d06e01958d1d61a86e387fb094b
 
+
+
+
+# 
+
+
+
+
+
+
+
+
+
+
+
+
+# https://www.google.com/search?q=wikipedia+google+github.com%2Fisystem32&oq=&gs_lcrp=EgZjaHJvbWUqCQgBEEUYOxjCAzIHCAAQRRiwATIJCAEQRRg7GMID0gEGLTFqMGo3qAIBsAIB&client=tablet-android-samsung&sourceid=chrome-mobile&ie=UTF-8
+
+
+# https://github.com/sessions/two-factor/sms/confirm
+
+# https://github.com/sessions/two-factor/mobile?auto=true
+
+# https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FiSystem32
+
+
+
+#50
+
+
+# 50
+
+
+
+
+
+
+
+
+
+
+
